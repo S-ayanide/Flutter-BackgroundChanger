@@ -1,7 +1,7 @@
 # GermanNumbers
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity) [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Naereen/ama) [![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://code.visualstudio.com/) [![GitHub issues](https://img.shields.io/github/issues/S-ayanide/Flutter-GermanNumbers.svg)](https://github.com/S-ayanide/Flutter-GermanNumbers/issues)
-[![GitHub forks](https://img.shields.io/github/forks/S-ayanide/Flutter-GermanNumbers.svg?style=social)](https://github.com/S-ayanide/Flutter-GermanNumbers/network) [![GitHub stars](https://img.shields.io/github/stars/S-ayanide/Flutter-GermanNumbers.svg?style=social)](https://github.com/S-ayanide/Flutter-GermanNumbers/stargazers) [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-[![GitHub license](https://img.shields.io/github/license/S-ayanide/Flutter-GermanNumbers.svg?style=plastic)](https://github.com/S-ayanide/Flutter-GermanNumbers/blob/master/LICENSE)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity) [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Naereen/ama) [![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://code.visualstudio.com/) [![GitHub issues](https://img.shields.io/github/issues/S-ayanide/Flutter-BackgroundChanger.svg)](https://github.com/S-ayanide/Flutter-BackgroundChanger/issues)
+[![GitHub forks](https://img.shields.io/github/forks/S-ayanide/Flutter-BackgroundChanger.svg?style=social)](https://github.com/S-ayanide/Flutter-BackgroundChanger/network) [![GitHub stars](https://img.shields.io/github/stars/S-ayanide/Flutter-BackgroundChanger.svg?style=social)](https://github.com/S-ayanide/Flutter-BackgroundChanger/stargazers) [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+[![GitHub license](https://img.shields.io/github/license/S-ayanide/Flutter-BackgroundChanger.svg?style=plastic)](https://github.com/S-ayanide/Flutter-BackgroundChanger/blob/master/LICENSE)
 
 A basic Flutter project which generates English numbers from 1 to 10 and translates them to German simultaneously
 ### 👉 If you like this repo then please give it a ⭐️
@@ -13,10 +13,13 @@ This Flutter app converts the English number from 1 to 10. After reaching 10 it 
 <img src="images/Capture1.PNG"
      alt="Home Screen"
      style="float: left; margin-right: 10px;"
-     width="200"/> <img src="https://media.giphy.com/media/KdBs9k4NdQyRBDEu4e/giphy.gif"
+     width="200"/> <img src="images/Capture2.PNG"
      alt="Home Screen"
      style="float: left; margin-right: 10px;"
-     width="200"/>
+     width="200"/> <img src="https://media.giphy.com/media/69yJSOokO0H5n23YpM/200w_d.gif"
+     alt="Home Screen"
+     style="float: left; margin-right: 10px;"
+     width="164"/>
      
 ## NOTE:
 This project is subject to change by the developer and is still in development
@@ -33,10 +36,10 @@ Pull Requests are welcome. Please follow these rules for the ease of understandi
 ## Developed & Maintained by
 [Sayan Mondal](https://github.com/S-ayanide) 
 [📷 Insta](https://www.instagram.com/s_ayanide/)
-[🐤 Twitter](https://www.instagram.com/s_ayanide/) [![Twitter](https://img.shields.io/twitter/url/https/github.com/S-ayanide/Flutter-GermanNumbers.svg?style=social)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2FS-ayanide%2FFlutter-GermanNumbers)
+[🐤 Twitter](https://www.instagram.com/s_ayanide/) [![Twitter](https://img.shields.io/twitter/url/https/github.com/S-ayanide/Flutter-BackgroundChanger.svg?style=social)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2FS-ayanide%2FFlutter-BackgroundChanger)
 
 ## License 
-[![GitHub license](https://img.shields.io/github/license/S-ayanide/Flutter-GermanNumbers.svg?style=plastic)](https://github.com/S-ayanide/Flutter-GermanNumbers/blob/master/LICENSE)
+[![GitHub license](https://img.shields.io/github/license/S-ayanide/Flutter-BackgroundChanger.svg?style=for-the-badge)](https://github.com/S-ayanide/Flutter-BackgroundChanger/blob/master/LICENSE)
 ```Copyright 2019 Sayan Mondal
 
 Licensed under the Apache License, Version 2.0 (the "License");
